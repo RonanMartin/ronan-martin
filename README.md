@@ -6,5 +6,5 @@ In November I started the Bootcamp Journey DevOps with AWS - Impulso, with excel
 
 I am developing my English communication with studies through a DIO course and mobile apps, I have a good reading level, and I hope to be able to speak better in a few months.
 
-I am interested in working with Software development or as DevOps.
+I am interested in working as DevOps.
 
